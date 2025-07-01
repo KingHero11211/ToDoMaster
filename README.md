@@ -72,10 +72,10 @@ Once the installation is complete, you can run the application with this command
 ```bash
 python "to do list.py"
 
-📂 Project Structure
+## 📂 Project Structure
 The project is organized as follows:
 
-your-repository-name/
+ToDoMaster/
 ├── icons/
 │   ├── logo.png
 │   ├── home.png
@@ -93,12 +93,12 @@ your-repository-name/
 ├── requirements.txt      # Project dependencies
 └── README.md             # This file
 
-🌟 Future Improvements
-Add a search bar to filter tasks by name.
-Implement desktop notifications for upcoming or overdue tasks.
-Add support for sub-tasks.
-Create a "Settings" page for more user customization.
-Add task sorting options (by date, by priority, etc.).
+## 🌟 Future Improvements
+- Add a search bar to filter tasks by name.
+- Implement desktop notifications for upcoming or overdue tasks.
+- Add support for sub-tasks.
+- Create a "Settings" page for more user customization.
+- Add task sorting options (by date, by priority, etc.).
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
