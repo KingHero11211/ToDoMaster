@@ -78,21 +78,20 @@ The project is organized as follows:
 
 ToDoMaster/
 ├── icons/
-│   ├── logo.png
-│   ├── home.png
-│   ├── user.png
-│   ├── briefcase.png
-│   ├── shopping-cart.png
-│   ├── heart-pulse.png
-│   ├── book-marked.png
-│   ├── plus.png
-│   ├── edit.png
-│   ├── delete.png
-│   ├── calendar.png
-│   └── no-tasks.png
-├── to do list.py         # The main application script
-├── requirements.txt      # Project dependencies
-└── README.md             # This file
+│ ├── book-marked.png
+│ ├── briefcase.png
+│ ├── calendar.png
+│ ├── delete.png
+│ ├── edit.png
+│ ├── heart-pulse.png
+│ ├── home.png
+│ ├── logo.png
+│ ├── no-tasks.png
+│ ├── plus.png
+│ └── shopping-cart.png
+├── to do list.py
+├── requirements.txt
+└── README.md
 
 
 ## 🌟 Future Improvements
