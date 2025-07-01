@@ -8,11 +8,11 @@ A modern, beautiful, and feature-rich desktop Todo List application built with P
 
 | Light Mode | Dark Mode |
 | :---: | :---: |
-| ![Light Mode Screenshot]![Image](https://github.com/user-attachments/assets/782c622e-15f8-4eb8-be04-791360c67fe4) | ![Dark Mode Screenshot](link-to-your-dark-mode-screenshot.png) |
+| ![Image](https://github.com/user-attachments/assets/782c622e-15f8-4eb8-be04-791360c67fe4) | ![Image](https://github.com/user-attachments/assets/d7d566f5-6054-476c-b6e4-663bc0047a61) |
 
 **Add/Edit Task Dialog with Calendar:**
 
-![Add Task Dialog](link-to-your-dialog-screenshot.png)
+![Image](https://github.com/user-attachments/assets/52c1cbd1-4a70-4810-ba88-41b29299c918)
 
 
 ## ✨ Features
