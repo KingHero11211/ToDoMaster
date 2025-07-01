@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1751395462,
+        "text": "Take a walk in the park",
+        "completed": false,
+        "category": "Health",
+        "priority": "Low",
+        "due_date": "2025-07-03",
+        "created_at": "2025-07-02T00:14:22.103266",
+        "completed_at": null
+    }
+]
