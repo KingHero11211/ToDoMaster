@@ -76,6 +76,7 @@ python "to do list.py"
 ## 📂 Project Structure
 The project is organized as follows:
 
+```
 ToDoMaster/
 ├── icons/
 │ ├── book-marked.png
@@ -92,6 +93,8 @@ ToDoMaster/
 ├── to do list.py
 ├── requirements.txt
 └── README.md
+
+```
 
 
 ## 🌟 Future Improvements
